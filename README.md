@@ -1,7 +1,13 @@
-<h1 align="center">Hi , I'm Siyam Bhuiyan</h1>
+<h1 align="center">Hi 👋, I'm Siyam Bhuiyan</h1>
+<p align="center">
+  A passionate programmer from [Your Country] 🌏 <br />
+  🎓 Currently learning new technologies to expand my skillset 🚀 <br />
+  ✨ I love solving problems, coding, and contributing to open-source.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyam-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="siyam-bhuiyan" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-typing-gif-gifs&psig=AOvVaw2CJ5dCAFaYOeY_6LL29pC9&ust=1696339343245000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCerOG614EDFQAAAAAdAAAAABBn">
+<img align="right" alt="Coding" width="400" src="[YOUR_VALID_IMAGE_URL](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRqM3Y3dzdiYXRqd3VmZXJmcGY2YzVvZ2NzaWpvcnprbmt3YW9rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.webp)" />
 
 - 📫 How to reach me **bhuiyansiyam294@gmail.com**
 
