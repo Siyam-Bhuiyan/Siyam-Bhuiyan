@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyam-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="siyam-bhuiyan" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRqM3Y3dzdiYXRqd3VmZXJmcGY2YzVvZ2NzaWpvcnprbmt3YW9rZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.webp" />
+
 
 
 - 📫 How to reach me **bhuiyansiyam294@gmail.com**
